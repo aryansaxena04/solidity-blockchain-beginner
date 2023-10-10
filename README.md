@@ -11,7 +11,7 @@
     </p>
 
 ## Get Started
-    <ol>
+   <ol>
         <li>Copy the code written in
             <a href="MyToken.sol">MyToken.sol</a>.</li>
         <li>Open
@@ -27,7 +27,7 @@
     </ol>
 
    ## Author
-    <p>
+   <p>
         Aryan Saxena
     </p>
 
