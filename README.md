@@ -1,16 +1,16 @@
-#Token SHIYAN
+# Token SHIYAN
 
   <p>
         Shiyan is a crypto token in Solidity created as part of the
         <a href="https://www.metacrafters.io/">Metacrafters</a> final assessment for Solidity Beginners Program.
    </p>
 
-   ## Description
+## Description
    <p>
         The code contains a token minting and burning function as requested in the assessment.
     </p>
 
-  ##Get Started
+## Get Started
     <ol>
         <li>Copy the code written in
             <a href="MyToken.sol">MyToken.sol</a>.</li>
@@ -26,7 +26,7 @@
         <li>Congratulations, the code is successfully running.</li>
     </ol>
 
-   ##Author
+   ## Author
     <p>
         Aryan Saxena
     </p>
