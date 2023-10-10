@@ -31,8 +31,8 @@
         Aryan Saxena
     </p>
 
-##License
-    <p>
+## License
+  <p>
         This project is licensed under the MIT License - see the
         <a href="LICENSE.md">LICENSE.md</a> file for details.
     </p>
